@@ -1,30 +1,30 @@
-# 🏅 Historia Igrzysk Olimpijskich (1896-2016) - Power BI Report  
+# 🏅 History of the Olympic Games (1896-2016) - Power BI Report  
 
-## 📌 Opis  
-Projekt przedstawia analizę igrzysk olimpijskich w latach 1896-2016. Raport zawiera kluczowe informacje dotyczące uczestnictwa sportowców, lokalizacji igrzysk oraz wyników medalowych.  
+## 📌 Description  
+This project presents an analysis of the Olympic Games from 1896 to 2016. The report provides key insights into athlete participation, event locations, and medal achievements.  
 
-## 📊 Wnioski i obserwacje  
-- 👩 Kobiety po raz pierwszy mogły brać udział w igrzyskach w **1900 roku**. Od tego czasu ich udział systematycznie rósł.  
-- 🌍 **Igrzyska nigdy nie odbyły się w Afryce**, a pierwsze igrzyska w Ameryce Południowej miały miejsce w **2016 roku** (Brazylia, Rio).  
-- 🏟 **1956 rok był wyjątkowy**, ponieważ letnie igrzyska odbyły się w dwóch krajach (**Australia i Szwecja**), a zimowe we **Włoszech**.  
-- 🏊‍♂️ **Michael Phelps** zdobył najwięcej medali w historii pojedynczych igrzysk (🥇 **8 złotych** w 2008 r., 🥇 **6 złotych i 2 brązowe** w 2004 r.).  
+## 📊 Key Findings and Observations  
+- 👩 Women were first allowed to participate in the Olympics in **1900**. Since then, their participation has steadily increased.  
+- 🌍 The Olympics have **never been held in Africa**, and the first Games in South America took place in **2016** (Brazil, Rio).  
+- 🏟 **The year 1956 was unique**, as the Summer Olympics were hosted by two countries (**Australia and Sweden**), while the Winter Olympics were held in **Italy**.  
+- 🏊‍♂️ **Michael Phelps** holds the record for the most medals in a single Olympic event (🥇 **8 gold medals** in 2008, 🥇 **6 gold and 2 bronze** in 2004).  
 
-## 🛠 Model danych  
-Model raportu został zbudowany w **układzie konstelacji** i zawiera:  
-- 📄 **2 tabele faktów**  
-- 📂 **4 tabele słownikowe**  
-- 🔗 Relacje w modelu są w postaci **jeden-do-wiele**  
+## 🛠 Data Model  
+The report is built using a **constellation schema** and consists of:  
+- 📄 **2 fact tables**  
+- 📂 **4 dimension tables**  
+- 🔗 Relationships are **one-to-many**  
 
-## 📥 Źródło danych  
-Dane zostały pobrane z **Kaggle**:  
+## 📥 Data Source  
+The dataset was obtained from **Kaggle**:  
 🔗 [120 Years of Olympic History - Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
 
-## 🚀 Jak uruchomić raport?  
-1. Pobierz plik `olympics_report.pbix` z repozytorium.  
-2. Otwórz go w **Power BI Desktop**.  
-3. Zapoznaj się z wizualizacjami i analizą danych.  
+## 🚀 How to Run the Report?  
+1. Download the `olympics_report.pbix` file from the repository.  
+2. Open it in **Power BI Desktop**.  
+3. Explore the visualizations and data insights.  
 
 ---
 
-📌 **Autor:** [Twoje Imię i Nazwisko lub Nick]  
-📅 **Data publikacji:** [Miesiąc, Rok]  
+📌 **Author:** Filip Kinczewski  
+📅 **Publication Date:** January 2025  
